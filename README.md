@@ -15,14 +15,10 @@ by the WAY, I know it works when you install with VimPlug, IDK about anything el
 ## Screenshots
 
 C code
-w
+
 ![img](./pics/C.png)
 
-Go code 
+Rust code 
 
-![img](./pics/Go.png)
-
-Java code
-
-![img](./pics/Java.png)
+![img](./pics/rust.png)
 
