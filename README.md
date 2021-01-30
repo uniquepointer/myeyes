@@ -15,7 +15,7 @@ by the WAY, I know it works when you install with VimPlug, IDK about anything el
 ## Screenshots
 
 C code
-
+w
 ![img](./pics/C.png)
 
 Go code 
