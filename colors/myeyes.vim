@@ -64,14 +64,14 @@ hi Pmenu guifg=#ebdbb2 guibg=#d3869b
 hi SignColumn guibg=#1d2021
 hi Title guifg=#ebdbb2
 hi LineNr guifg=#a6832b guibg=#1d2021
-hi NonText guifg=#d3869b guibg=#1d2021
-hi Comment guifg=#d3869b gui=italic
-hi SpecialComment guifg=#d3869b gui=italic guibg=#1d2021
+hi NonText guifg=#b16286 guibg=#1d2021
+hi Comment guifg=#b16286 gui=italic
+hi SpecialComment guifg=#b16286 gui=italic guibg=#1d2021
 hi CursorLine guibg=#d3869b
 hi TabLineFill gui=NONE guibg=#d3869b
 hi TabLine guifg=#a6832b guibg=#d3869b gui=NONE
 hi StatusLine gui=bold guibg=#d3869b guifg=#ebdbb2
 hi StatusLineNC gui=NONE guibg=#1d2021 guifg=#ebdbb2
-hi Search guibg=#d3869b guifg=#ebdbb2
+hi Search guibg=#b16286 guifg=#ebdbb2
 hi VertSplit gui=NONE guifg=#d3869b guibg=NONE
 hi Visual gui=NONE guibg=#d3869b
